@@ -1,0 +1,11 @@
+En el día de hoy los temas tratados son:
+
+Hoy estudiaremos comandos y versionamiento de git
+
+
+--que es un sistema de control de versiones:
+
+
+Los sistemas de control de versiones son un tipo de software que ayuda a hacer un seguimiento de los cambios realizados en el código a lo largo del tiempo. A medida que un desarrollador edita el código, el sistema de control de versiones toma una instantánea de los archivos. Después, guarda esa instantánea de forma permanente para que se pueda recuperar más adelante si es necesario.
+
+Sin el control de versiones, los desarrolladores se sienten tentados a mantener varias copias del código en su equipo. Esto es peligroso, ya que es fácil cambiar o eliminar un archivo en la copia incorrecta del código, lo que podría hacer que perdieran el trabajo. Los sistemas de control de versiones solucionan este problema al administrar todas las versiones del código, pero presentan al equipo una sola versión a la vez.
