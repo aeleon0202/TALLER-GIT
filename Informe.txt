@@ -1,3 +1,0 @@
-Lo visto en la clase anterior fue:
-
-Aprednimos sobre algunos comandos basicos de git y sus principios
